@@ -1,1 +1,2 @@
-“Hello, World”,
+#/bash/bash
+cat "Hello, world\n"
