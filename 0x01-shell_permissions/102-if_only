@@ -1,1 +1,2 @@
-wc -l file
+#!/bin/bash
+chown –from=guillaume betty hello
