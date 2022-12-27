@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name '*.js' | while read file; do rm "$file"
+find . -type f -name "*.js" -delete
