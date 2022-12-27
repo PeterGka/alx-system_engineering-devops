@@ -1,2 +1,3 @@
 #/bin/bash\n
 for a in {a..z}; do for b in {a..z}; do [[ $a = o && $b = o ]] || echo "$a$b";
+
